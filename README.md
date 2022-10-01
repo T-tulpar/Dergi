@@ -1,2 +1,2 @@
 # Dergi
-SFL dergisi tasarımları
+MESF{E}ELE dergisi tasarımları
